@@ -1,0 +1,573 @@
+{
+  "count": 142,
+  "images": [
+    {
+      "file": "AF_honour_ribbon_lv1.svg.webp",
+      "sha256": "d7f0888553604434bf6f870cb54f8a5d11d7af5c3be4a8eb47237871650838d5"
+    },
+    {
+      "file": "AF_honour_ribbon_lv2.svg.webp",
+      "sha256": "870e26219a77e8221ba70e2b152c5636dd5b5bf4aa102bef77c14c883bf3a027"
+    },
+    {
+      "file": "AF_honour_ribbon_lv3.svg.webp",
+      "sha256": "dc055cfe63a754f91082c8be24aeb37e0667882a2818bb48f19bbc455e1b94cc"
+    },
+    {
+      "file": "GF_honour_ribbon_lv1.svg.webp",
+      "sha256": "c5017ee30baa4e097a5f5bcebcab8e6032ffc0815fcc1f66124e130206b6bd28"
+    },
+    {
+      "file": "GF_honour_ribbon_lv2.svg.webp",
+      "sha256": "d9307416be128ca8f07a11c18ced17c3ec1f20a97e388ef6cc308b887988cac2"
+    },
+    {
+      "file": "GF_honour_ribbon_lv3.svg.webp",
+      "sha256": "24c8cf35f7aca30b2fc674f32a51d287fa00edf9a95c518db6b70f681fb133a6"
+    },
+    {
+      "file": "JLSF_honour_ribbon_lv1.svg.webp",
+      "sha256": "88d5af842d2cae42b1703b944ff42765ad4fd19218344d8970a5af43fef8830a"
+    },
+    {
+      "file": "JLSF_honour_ribbon_lv2.svg.webp",
+      "sha256": "1027e7b47a03868fdec96790289261de1a213f2dbbe12f6162c3e1a64bceff7e"
+    },
+    {
+      "file": "JLSF_honour_ribbon_lv3.svg.webp",
+      "sha256": "aad88847172c81b9119353d09c7b56d1527a83100235bc8ce8ef00f50af65d15"
+    },
+    {
+      "file": "Medal_of_Bayi_Ribbon.svg.webp",
+      "sha256": "6eb4f52841e3ee57e39f219a052106c02989473a78a8248c7e71936e122dc0c1"
+    },
+    {
+      "file": "Medal_of_Devotion_for_National_Defense_Ribbon_Bronze.svg.webp",
+      "sha256": "3b9cbba013b8b17551fabc6cac0e862ca593e1f8d846180c7e25e45f78da36ad"
+    },
+    {
+      "file": "Medal_of_Devotion_for_National_Defense_Ribbon_Gold.svg.webp",
+      "sha256": "09c3ea595f8cf951df5cdf35419a236001919605992ae48b5ff206aae955e46e"
+    },
+    {
+      "file": "Medal_of_Devotion_for_National_Defense_Ribbon_Silver.svg.webp",
+      "sha256": "e027c3276a5bf3f2365660817842acaa45e0c1dfe4ce7af722449e650f5666a9"
+    },
+    {
+      "file": "Medal_of_Guarding_the_Frontiers_Ribbon_-_Bronze.svg.webp",
+      "sha256": "78485606f8e50b8b1dd631763e3c6fd961a1ae7ec1c738843dbb99ca41c78d26"
+    },
+    {
+      "file": "Medal_of_Guarding_the_Frontiers_Ribbon_-_Golden.svg.webp",
+      "sha256": "75d65526704e453d71706f1d2791cf00a41c443d25bf62765f7b0712472a7bf1"
+    },
+    {
+      "file": "Medal_of_Guarding_the_Frontiers_Ribbon_-_Silver.svg.webp",
+      "sha256": "97ea52dcd57d4e07f9edf43a1a7f9579e3bffcc8747c6388afba78b79fd419f5"
+    },
+    {
+      "file": "Medal_of_Independence_and_Freedom_Ribbon.svg.webp",
+      "sha256": "9a9b17a3fa2729ef4b71db323f06eec67211c0da0834aed5f532a290cf5da1fe"
+    },
+    {
+      "file": "Medal_of_Liberation_Ribbon.svg.webp",
+      "sha256": "0e17374460cb89b0841bf45a3942260aabe92c36254a179c7cb317346dbcc423"
+    },
+    {
+      "file": "Medal_of_National_Defense_Service_Ribbon_-_Bronze.svg.webp",
+      "sha256": "317190b61d96a6acc782ad9c650ece99f7e9b5104533492f8c1dcf6bb28e95dc"
+    },
+    {
+      "file": "Medal_of_National_Defense_Service_Ribbon_-_Golden.svg.webp",
+      "sha256": "e83176e0abe6678c28564dfba6c32cf291d92a11a7eb759ed06a1b08003417ef"
+    },
+    {
+      "file": "Medal_of_National_Defense_Service_Ribbon_-_Silver.svg.webp",
+      "sha256": "53283609281259761df5080d3373bd97ac1c28297d16e913c0c6ed95c7e435ea"
+    },
+    {
+      "file": "Medal_of_Peace_Mission_Ribbon.svg.webp",
+      "sha256": "460cf03ed19c22ad34600ce420029a0e362462b5c17a18395f0756faa09a8012"
+    },
+    {
+      "file": "Medal_of_Performing_Combat_Mission_Ribbon.svg.webp",
+      "sha256": "9af61b4770286ceaafc130740a051c6a71cff0ad719cc95f6777e4b771fd5c5c"
+    },
+    {
+      "file": "Medal_of_Performing_Vital_Mission_Ribbon.svg.webp",
+      "sha256": "cbeb8719f54f0afc7b2017d38128d4e5c2fcb19422d18a02f7416b7bf3dc546c"
+    },
+    {
+      "file": "Meritorious_Service_Medal_of_Independence.svg.webp",
+      "sha256": "eab2c1cca227a7264e6134a7fc28b7ad0c9bfe94153bcc448dd0c44f67e7329e"
+    },
+    {
+      "file": "Navy_honour_ribbon_lv1.svg.webp",
+      "sha256": "07849c33159435fee30b11a03eb23e363e9d2dc2186d22b52c8fa172aec886ce"
+    },
+    {
+      "file": "Navy_honour_ribbon_lv2.svg.webp",
+      "sha256": "884b475eeb8999999f8c1b5124029a62fed62151ac55d8f213e7e4d07089e411"
+    },
+    {
+      "file": "Navy_honour_ribbon_lv3.svg.webp",
+      "sha256": "14ee5a850858ed1d0b385e8603c069352695fffe7440c532eba422f0c7cf8e7c"
+    },
+    {
+      "file": "Order_of_Bayi_1st_Class.svg.webp",
+      "sha256": "f65931853ac30b489a634686ef12e5c7e774984deedf9b4d621345667a5725ac"
+    },
+    {
+      "file": "Order_of_Bayi_2nd_Class.svg.webp",
+      "sha256": "27939b3a9a0f409a059f04efd551eef88f6733c65ef5b3c5f3980abbb22db3e1"
+    },
+    {
+      "file": "Order_of_Bayi_3rd_Class.svg.webp",
+      "sha256": "e315a5d7fa0a32f6b46bdfe623a299f85fa291477d9eb80f8a7382a532bcb758"
+    },
+    {
+      "file": "Order_of_Heroic_Exemplar_1st_Class,_China.svg.webp",
+      "sha256": "a6016aaf892b550192bb9d1750006e37b1da13ca762a4b0da56b51f10a92233c"
+    },
+    {
+      "file": "Order_of_Heroic_Exemplar_2nd_Class,_China.svg.webp",
+      "sha256": "8f69ed241562f423acd85bf4e880cb82f76162bcc9fe3cd768771cba4d2c2ac9"
+    },
+    {
+      "file": "Order_of_Independence_and_Freedom_1st_Class.svg.webp",
+      "sha256": "9f51a2c1bd912969093a06ea5efb77e1f992a5b3dfd3f8cd924249027397cd0e"
+    },
+    {
+      "file": "Order_of_Independence_and_Freedom_2nd_Class.svg.webp",
+      "sha256": "720ec54609bed576c1717b701c84c1f4f41f07ea4e81a5018b9a705afd946a25"
+    },
+    {
+      "file": "Order_of_Independence_and_Freedom_3rd_Class.svg.webp",
+      "sha256": "035178daab58b245fb922d683890df4c8a7faff1ed2bf82d9dc58ff511a87c15"
+    },
+    {
+      "file": "Order_of_Liberation_1st_Class.svg.webp",
+      "sha256": "3bd3c89af2f4460b1b4649a44959e97fc034074659cb421e254c9fd4d31b1b9a"
+    },
+    {
+      "file": "Order_of_Liberation_2nd_Class.svg.webp",
+      "sha256": "37777c4974609669ab43e72a8401bd321c184816e51b911ebdc07f2add0922f4"
+    },
+    {
+      "file": "Order_of_Liberation_3rd_Class.svg.webp",
+      "sha256": "48192575f4900ce19ae7c4e29ab15a1906a1aded525c003659efd5b4389c27b3"
+    },
+    {
+      "file": "PAP_honour_ribbon_lv1.svg.webp",
+      "sha256": "32cf4c2e1a86afa9d9acaa68773777e4989e0f5baa083b0622b89c529f29cdce"
+    },
+    {
+      "file": "PAP_honour_ribbon_lv2.svg.webp",
+      "sha256": "371359b71fc35bc3be44bd720aaacd59ad1b55c475d05db0baa993435311eb68"
+    },
+    {
+      "file": "PAP_honour_ribbon_lv3.svg.webp",
+      "sha256": "dba9edecb1bcfacce37cb86c072a3c313c99301aff0ba469f376af5b5d862a34"
+    },
+    {
+      "file": "PLA_honour_ribbon_commendation_for_individual_lv1.svg.webp",
+      "sha256": "6f6c62e73b66895912bf30cda08a635af5f4630fb637242de1e60855671d5d78"
+    },
+    {
+      "file": "PLA_honour_ribbon_commendation_for_individual_lv2.svg.webp",
+      "sha256": "6fd4088a8b4717a4c372e9d2dfba797345c9677157e91909455bc17d04623e0c"
+    },
+    {
+      "file": "PLA_honour_ribbon_commendation_for_individual_lv3.svg.webp",
+      "sha256": "1226a27d77df786aa71579bcdd79fc0f7723d71727f7601ed26718e2fd42d04e"
+    },
+    {
+      "file": "PLA_honour_ribbon_commendation_for_unit_lv1.svg.webp",
+      "sha256": "1c788ecd5ec57fd37bda0902a62b88c564582ccd4afcb1d292e9da09ed7c94f5"
+    },
+    {
+      "file": "PLA_honour_ribbon_commendation_for_unit_lv2.svg.webp",
+      "sha256": "0fcf6ce2ca6350ac3f92be9c45ab4b6de4b462fcc5de8e9fef641bbcb38b0a8b"
+    },
+    {
+      "file": "PLA_honour_ribbon_commendation_for_unit_lv3.svg.webp",
+      "sha256": "3fb97bbf682f8d9f624ec8c71f207f5c161400191c0af46fcc48b1e488bc5a10"
+    },
+    {
+      "file": "PLA_honour_ribbon_excellent_junior_officer_or_enlisted_lv1.svg.webp",
+      "sha256": "749ece08d6006464df1014c77ac393d053a79a433b3e7b4c511b6261d7ea37b6"
+    },
+    {
+      "file": "PLA_honour_ribbon_excellent_junior_officer_or_enlisted_lv2.svg.webp",
+      "sha256": "21ae69cb513e21415b67fdcdcaf6dd153d6bbde610aaebc9c0210eac0ba8aa9d"
+    },
+    {
+      "file": "PLA_honour_ribbon_excellent_junior_officer_or_enlisted_lv3.svg.webp",
+      "sha256": "dbe4b395dd506ab2a6df30a42d31de614851fe39aad2a0eb8a8833da613a0050"
+    },
+    {
+      "file": "PLA_honour_ribbon_honorary_title_individual_peacetime_lv1.svg.webp",
+      "sha256": "68ee511ca34f45c005439360c3ae92a44081243b86e138561288c808a99c8860"
+    },
+    {
+      "file": "PLA_honour_ribbon_honorary_title_individual_peacetime_lv2.svg.webp",
+      "sha256": "0a21844ded4b14a13b46ccc6a7255bd84c3b8c23284d25a8250c6a9c7d698da6"
+    },
+    {
+      "file": "PLA_honour_ribbon_honorary_title_individual_vital_MOOTW.svg.webp",
+      "sha256": "75e7cb33c463d355324dfaa4b9fcce967734d18e40d6890bad690f342cd6f795"
+    },
+    {
+      "file": "PLA_honour_ribbon_honorary_title_individual_wartime_lv1.svg.webp",
+      "sha256": "a50b6b9317f004027b1d1171b1092239c6d43ab609ad03c9185a91420c08bd74"
+    },
+    {
+      "file": "PLA_honour_ribbon_honorary_title_individual_wartime_lv2.svg.webp",
+      "sha256": "02b49b97a3780b141ee049817d2eadf7b41b5f979b8c361334d20a69a4454da0"
+    },
+    {
+      "file": "PLA_honour_ribbon_honorary_title_individual_wartime_lv3.svg.webp",
+      "sha256": "09d17dca466e1b937479dfd35a393f7f170ce985faac28594ffa90f4259b2e05"
+    },
+    {
+      "file": "PLA_honour_ribbon_honorary_title_unit_peacetime.svg.webp",
+      "sha256": "6ac41ed02fff9e220cc18272d13aeeeb2d6a6783eb2cafc19002eb13ca76913f"
+    },
+    {
+      "file": "PLA_honour_ribbon_honorary_title_unit_vital_MOOTW.svg.webp",
+      "sha256": "bd01a66a9fc2ae55d1242ee107ff6c41c4530c17f0bc7426a440cf1258e76b0e"
+    },
+    {
+      "file": "PLA_honour_ribbon_honorary_title_unit_wartime_lv1.svg.webp",
+      "sha256": "7d30959e6a733db1489f49b65e6a40ac864a3498ae83ddc5edc733170a990e0e"
+    },
+    {
+      "file": "PLA_honour_ribbon_honorary_title_unit_wartime_lv2.svg.webp",
+      "sha256": "cb966d7d0347eac649f922f1f769e4ec7dcd48f287aa582be4546470d55da34e"
+    },
+    {
+      "file": "PLA_honour_ribbon_honorary_title_unit_wartime_lv3.svg.webp",
+      "sha256": "3ca32868e30a5f134f6c00244a8259c0ff602d4666b9a9a0e4729c6fcef3c70f"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv1.svg.webp",
+      "sha256": "cbd11bf34c98d7d6863c288a00e0052d007e7e12d369cf0b2ee361b9336be1ae"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv1_cat1.svg.webp",
+      "sha256": "d71592a1893e31cbbc779ebf24d65218e35d2c6277839daa17ee77c9cba9a227"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv1_cat2.svg.webp",
+      "sha256": "7b20f92d92187a283588c02b71db39451681818254fde2165d2582a2640bb720"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv1_cat3.svg.webp",
+      "sha256": "15de72bffe6b0d8156ee5119b0edfa284274a71b1c19bf935b6b7913fe4010ab"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv1_cat4.svg.webp",
+      "sha256": "8d7bea0fd642f27227ae2a250356cc2fab516076bf2a09965f29463fcf2e4a54"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv2.svg.webp",
+      "sha256": "df236434b82aabac06e0639cbe8e65aac399208a3410f7061f3ac681b95a010f"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv2_cat1.svg.webp",
+      "sha256": "b3df92897099370f1a4cf0b8874a9b5224aa400d8bf0a7a7efe8c18ccfd60751"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv2_cat2.svg.webp",
+      "sha256": "cdc3fb402896113d4c0a16c5bc2c263d86f52554104c9d3d8d22cb99d239f2b0"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv2_cat3.svg.webp",
+      "sha256": "8c533a7c3de9d2be06c97a1e4e2d2b074b746f1db46130b186901a5849d754ad"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv2_cat4.svg.webp",
+      "sha256": "2df4f0d4ca12a271e6919945c26822fc9882257bcec9e40e4d96444cc2a52eca"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv3.svg.webp",
+      "sha256": "f2c462ef54702c1be5311f1912df52515150e25b6d5204b4d7eb804315e63794"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv3_cat1.svg.webp",
+      "sha256": "f75f71254a85297ab872721b719a9cf411ffd703aaf57a1f35cd007109de072f"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv3_cat2.svg.webp",
+      "sha256": "db839e043f76ab196fb4397644c06989c19b311dd1dbfdd624e024bedae2c0e7"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv3_cat3.svg.webp",
+      "sha256": "0ea2132b25ebdf90013fce1e88c501166db05d9964b1a04c757b238988561ccb"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_peacetime_lv3_cat4.svg.webp",
+      "sha256": "b34688c28edfde287701dc376cea86df5811cd816364046a61656208a09cab25"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_vital_MOOTW_lv1.svg.webp",
+      "sha256": "e998102460b4f8995fd075f3c2045d1606260105568cc87d458e4b7905b0081d"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_vital_MOOTW_lv2.svg.webp",
+      "sha256": "d3411e94a6de8466e217ce196ccec51f4449596737422c20585cb7b1297e972d"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_vital_MOOTW_lv3.svg.webp",
+      "sha256": "372905359f2a18b0554e0cc8bfe44e00abf9c87d0622c4eff423445122766ebc"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv1.svg.webp",
+      "sha256": "a6edf30985cc2ed035016651f1ce78ee19950322c1a9e2cdf9919298fb9b9dc6"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv1_cat1.svg.webp",
+      "sha256": "d74c9ff3a7bb0fea89e36dae1298d9b9ad4c962ba1b7562b3f49a7413a667b78"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv1_cat2.svg.webp",
+      "sha256": "6557e015e9e4e2f173bee31821cef3a500d4982546a3ecec4a29fe35e1111ec9"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv1_cat3.svg.webp",
+      "sha256": "64af88b3c9232a3127cbabf16d8eaff3cc555ee2a6a3bc3d95e9d9f307542111"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv2.svg.webp",
+      "sha256": "f715f1733b9237c298a489e23794cdb0cc352f1471d003cfff4835638fede104"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv2_cat1.svg.webp",
+      "sha256": "39d4938a4107a1923b155b48331ba6da8c32762e54d7400ad47072638edd3b30"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv2_cat2.svg.webp",
+      "sha256": "47188af36db5f3417d589f70a89d07c3272e2f486b6726ea876e88f8ab395fdc"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv2_cat3.svg.webp",
+      "sha256": "2bada7e81356206a6ab0c7620e1665f397e88deabfde8fee79317be6dcbd89bc"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv3.svg.webp",
+      "sha256": "ed99327c4057bcf4009d8695989d5015552f15db44e3708c31394c90dd5e6c29"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv3_cat1.svg.webp",
+      "sha256": "fd6a87a38e3b3bd055f99a16f19e8c55c69d0f6eeac3b0eb217d344b4c1ab6df"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv3_cat2.svg.webp",
+      "sha256": "5e9aa37b7aed98e29a8909bf9dd328d0fcbae3320fd033d4eaf9a09a72023937"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv3_cat3.svg.webp",
+      "sha256": "f9b016d79694e84389aaeb971ebeff7ae72edd6dc01e13d03338fd37ea86d832"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv4.svg.webp",
+      "sha256": "295fa48b81bf78cd05e3c53e5cad6cdccf5a34b15fa65535f2045909eb31dd8d"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv4_cat1.svg.webp",
+      "sha256": "3c35af70acd79dd25b3fc15408478b72596676273551fdf0b10ceffb4849d535"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv4_cat2.svg.webp",
+      "sha256": "4bee2f4eb9c474ca776db43cf8549c5e01a3b4425d57763725799bb2ae321e3d"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_individual_wartime_lv4_cat3.svg.webp",
+      "sha256": "38b2669d11b599716ec0097fd74beea0aa92ad503fe6f08f14e5de33a46a275a"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_unit_peacetime_lv1.svg.webp",
+      "sha256": "df52af476a99546dcf4266b214cf238338c84be0910da16e54aa7dcf8c7a651e"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_unit_peacetime_lv2.svg.webp",
+      "sha256": "43fec07964f4702b7a773bcaed174ebd3f8bc12b0b33678c823c2a933898f7d1"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_unit_peacetime_lv3.svg.webp",
+      "sha256": "b5b1b6ca4f339a8cf918862c8c74d1fc135df0ab8c31e3aafe9fe6b86d89d8de"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_unit_vital_MOOTW_lv1.svg.webp",
+      "sha256": "9f02cf6ea7b6b726ad72dae8cd0a27a3700073c0310c4071dcda1828293b8099"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_unit_vital_MOOTW_lv2.svg.webp",
+      "sha256": "d9fdb947f9f9f1106233f323bcbd58b8e1340f0a52154c2db44db4cdf6737073"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_unit_vital_MOOTW_lv3.svg.webp",
+      "sha256": "61f8c8879c5fe64f51b92df0b7057206b3f79722dcba9ec420e374807f45825a"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_unit_wartime_lv1.svg.webp",
+      "sha256": "d2727604e7de7d71c91669dbb91c930007546b96dfeb339e47e19dec03da7dc1"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_unit_wartime_lv2.svg.webp",
+      "sha256": "a89a01a7473dc4ee5f90a1deb2a4aae982873619c278dcf2a1f7a9aca2505ac9"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_unit_wartime_lv3.svg.webp",
+      "sha256": "e3e67433cc83a0b8485a42396a9f6a6acf05408f3f05162d3e99ecfb756ed4c5"
+    },
+    {
+      "file": "PLA_honour_ribbon_meritorious_service_medal_unit_wartime_lv4.svg.webp",
+      "sha256": "62b2e9d1e940f2ff1274eaf72318ea8e01b30369642e4eeb1124de12a10b0c18"
+    },
+    {
+      "file": "PLA_honour_ribbon_order_of_bayi.svg.webp",
+      "sha256": "b98ea9a7dbc1cec4656413f038bec855517fc05db597e2c0c283e8915dd86a4e"
+    },
+    {
+      "file": "PLA_honour_ribbon_order_of_red_banner.svg.webp",
+      "sha256": "ba30adc8c4ede562c3f1bb0ec6a9e21e3438d51b5324c015f994f1101cc0e5bd"
+    },
+    {
+      "file": "PLA_honour_ribbon_order_of_red_star.svg.webp",
+      "sha256": "69433b3181aa1e957361a7ff3a7c1c4d689fa3b5cc5be49a08410ea646fb2889"
+    },
+    {
+      "file": "PLA_honour_ribbon_reward_for_individual_peacetime.svg.webp",
+      "sha256": "118be88b7493988ce4c37d760387b3812d28a68ed5d0a640c02ac67af2523eda"
+    },
+    {
+      "file": "PLA_honour_ribbon_reward_for_individual_peacetime_cat1.svg.webp",
+      "sha256": "5cfebc1e1a81f126734bdd12ef480682d06c34ae968a5e96f92d459cf3e158d2"
+    },
+    {
+      "file": "PLA_honour_ribbon_reward_for_individual_peacetime_cat2.svg.webp",
+      "sha256": "e99c2f4f0431de0e1ddb94c6a787b712eddb74db4c559fb8835c208747e21be2"
+    },
+    {
+      "file": "PLA_honour_ribbon_reward_for_individual_peacetime_cat3.svg.webp",
+      "sha256": "127f108438dbce4d23164365beec3a453f671ce3774645a1e97fbd3f42e080f0"
+    },
+    {
+      "file": "PLA_honour_ribbon_reward_for_individual_peacetime_cat4.svg.webp",
+      "sha256": "a3a43749d6d0b6bb46496a24f35d0d0b2c89d255d53f682c4eda4d7b85c74f99"
+    },
+    {
+      "file": "PLA_honour_ribbon_reward_for_individual_vital_MOOTW.svg.webp",
+      "sha256": "acf75fddf55645a468984cbaa3451122d35c9af6c7392bdde95f4eac02cea52f"
+    },
+    {
+      "file": "PLA_honour_ribbon_reward_for_unit_peacetime.svg.webp",
+      "sha256": "e5fa3c426de86cf8131f46ca206b3e99e9177702ef2d80d8cee7671257304047"
+    },
+    {
+      "file": "PLA_honour_ribbon_reward_for_unit_vital_MOOTW.svg.webp",
+      "sha256": "d356c83cec1bc01764daa33214cb0b0a57595712d7183b8fe30bd6bcd292a184"
+    },
+    {
+      "file": "PLA_service_ribbon_air_force.svg.webp",
+      "sha256": "300084c0688c532c9d2daac6f8e80ace0e46f213eaf9203bfb45cd76e8accf6c"
+    },
+    {
+      "file": "PLA_service_ribbon_armed_police.svg.webp",
+      "sha256": "bb43cbef91ef91da06649b2221edf8ea558642e62ed0d8f378d2d2355768c46e"
+    },
+    {
+      "file": "PLA_service_ribbon_bravery.svg.webp",
+      "sha256": "5b6e415d4247400c457a1ef0df34fd583347712f549ce4d892f28a9908f046b8"
+    },
+    {
+      "file": "PLA_service_ribbon_combat_mission.svg.webp",
+      "sha256": "b5f44ecca1508d44de4923bf4b63981536f4e7401f242e3f6f151ea4a3a02325"
+    },
+    {
+      "file": "PLA_service_ribbon_combat_mission_back.svg.webp",
+      "sha256": "3a677aae401ccc8a5be99f55bb387de79a9005f96eb32d04bf1ced76630385d6"
+    },
+    {
+      "file": "PLA_service_ribbon_devotion_for_national_defense.svg.webp",
+      "sha256": "57c3cfdab99670fe095f85a6ad44d40c50d40b520a8758ddc0139c22889ff519"
+    },
+    {
+      "file": "PLA_service_ribbon_ground_force.svg.webp",
+      "sha256": "28afb7dcec7fedeb1bbdfc619ed8ff418d39277a5fb0a07120c5cfc09a6a8ecd"
+    },
+    {
+      "file": "PLA_service_ribbon_joint_logistics_support_force.svg.webp",
+      "sha256": "2bd1003eee5e7dd613a01bd770d21592d2dc4a8977cbc7fbbf9ad98acfe3927e"
+    },
+    {
+      "file": "PLA_service_ribbon_medal_of_defending_the_frontiers_lv1.svg.webp",
+      "sha256": "f835277d0b7965f82f8aa46ce07539d04248bf6c8c27292a71986f63e126b8f1"
+    },
+    {
+      "file": "PLA_service_ribbon_medal_of_defending_the_frontiers_lv2.svg.webp",
+      "sha256": "a13679a6811620eaab9e331692bc554f5e6c11cef91bc4138af801819f97e328"
+    },
+    {
+      "file": "PLA_service_ribbon_medal_of_defending_the_frontiers_lv3.svg.webp",
+      "sha256": "1e426c5644d18a93c75a9d295b843bfa9e6064b28117d0a363cf24d91138e9da"
+    },
+    {
+      "file": "PLA_service_ribbon_navy.svg.webp",
+      "sha256": "ebd52aabb29e048ba3d8bc50f5b7dfd0b82241c01f5b7fe589dc58a0c41d35aa"
+    },
+    {
+      "file": "PLA_service_ribbon_overseas_deployment_lv1.svg.webp",
+      "sha256": "bdd2a280f75dc6a653c1429b7283aaa20a1733abd80fd9f6677e81b713fcaa20"
+    },
+    {
+      "file": "PLA_service_ribbon_overseas_deployment_lv2.svg.webp",
+      "sha256": "bed2502953180cf9e597127274365f3b391438e02f06a6003716f40b0aa044ff"
+    },
+    {
+      "file": "PLA_service_ribbon_overseas_deployment_lv3.svg.webp",
+      "sha256": "2623fe27d822141b2d60ff8ce4ad2ff9bfe2310bcc4703b350f2ba8c3ea94efd"
+    },
+    {
+      "file": "PLA_service_ribbon_rocket_force.svg.webp",
+      "sha256": "a616976004b595d4ab3c918944b16d1c752f148ddee4de9d4b3f8a21a3edab80"
+    },
+    {
+      "file": "PLA_service_ribbon_strategic_support_force.svg.webp",
+      "sha256": "def65bbfbbec49cfffff786097d304d6e8dd035f03a74bb4a18e8b57eeead2c7"
+    },
+    {
+      "file": "PLA_service_ribbon_vital_MOOTW.svg.webp",
+      "sha256": "a0a0fc4922798300730a9fd954ae722b7fcacec4f9808386fdc785e8625cc53f"
+    },
+    {
+      "file": "PLA_service_ribbon_vital_special_mission.svg.webp",
+      "sha256": "fe4f6f7f5a0970ffc788f2b1ecba1636adfed8c8a5bbaf1f1d5807cf1a12c779"
+    },
+    {
+      "file": "RF_honour_ribbon_lv1.svg.webp",
+      "sha256": "1b2f74b7a61a0dc9804845d283b69fe1f427d7a846a4fbac1b2ca9493d2748e0"
+    },
+    {
+      "file": "RF_honour_ribbon_lv2.svg.webp",
+      "sha256": "32cb95208dce8922d7f4c39611a9b9d86926f0edef630ef5db9ee0cd7cd13ba4"
+    },
+    {
+      "file": "RF_honour_ribbon_lv3.svg.webp",
+      "sha256": "c8df9d5c6d2ca35b6512b72d5a8a81c40a112109c2430a2010465de92260f2dd"
+    },
+    {
+      "file": "SSF_honour_ribbon_lv1.svg.webp",
+      "sha256": "d323f0dbf5ce54982a8df619516dc739e26b453b9c0f8b2c25ac09beb25fa9ca"
+    },
+    {
+      "file": "SSF_honour_ribbon_lv2.svg.webp",
+      "sha256": "b72d3ba6ba8761966ec39af0916caf6041dc80381136702216254be369434446"
+    },
+    {
+      "file": "SSF_honour_ribbon_lv3.svg.webp",
+      "sha256": "666d893899b741024da53facd5abea4b8a0100fa6a86f8c1a5e76e2aa7b3df98"
+    }
+  ]
+}

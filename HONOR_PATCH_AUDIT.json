@@ -1,0 +1,18 @@
+{
+  "total": 239,
+  "byCountry": {
+    "CN": 143,
+    "SU": 45,
+    "DE": 14,
+    "US": 14,
+    "UK": 15,
+    "AU": 8
+  },
+  "missingReferencesCleared": [],
+  "germanImported": "matching named files from 德三勋略(1).zip",
+  "limitations": [
+    "Only unambiguous German/Soviet player faction labels count",
+    "Unknown medal requirements remain blocked, not auto-awarded",
+    "Unidentified East Front image remains unbound"
+  ]
+}
